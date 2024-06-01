@@ -1,0 +1,7 @@
+train: /workspace/competitions/Spacecrafts/datasets/train/images
+val: /workspace/competitions/Spacecrafts/datasets/val/images
+
+nc: 1
+names: ['spacecraft']
+
+
